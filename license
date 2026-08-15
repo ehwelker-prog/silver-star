@@ -7,8 +7,8 @@ This license shall be included in all copies or substantial portions of this pro
 
 Permitted Uses:
 - Any part of the Silver Star project may be used, unconditionally, in personal, single-player settings. This includes unlimited modification to the codebase.
-  - This DOES NOT allow unconditional redistribution of modified Silver Star projects, in any capacity.
-- Any part of the Silver Star project can be modified and used, UNCONDITIONALLY, as long as the modified code is NOT distributed
+  - This DOES NOT allow unconditional redistribution of modified Silver Star projects.
+- Any part of the Silver Star project can be modified and used in any capacity, as long as the modified code is not redistributed.
 - Any part of the Silver Star project may be modified and redistributed as part of a separate project, PROVIDED the code is not presented as original work of the new project's author.
 
 Prohibited Uses:
@@ -22,6 +22,8 @@ Usage Requirements:
   - "This project includes code contributed from the Silver Star project, which can be found here: <link>."
 
 Exemptions:
+- A special exemption is provided for the Silver Star Library project. This project may be modified, used, and redistributed in any capacity, provided the code within is not presented as original work of the user.
+  - If a standalone, modified version of the Silver Star Library is redistributed, it musr include a clear, upfront link to the original Silver Star Library project page. 
 - SkeletonToast and the Silver Star team reserve the right to prohibit any individual, group, server, or any other entity from using Silver Star code in a public setting. This is at the SOLE DISCRETION of SkeletonToast and the Silver Star team.
   - The right to use Silver Star projects in personal or private settings is granted, provided all conditions of this License are followed, to all individuals.
 - SkeletonToast and the Silver Star team reserve the right to override any parts of this License, or introduce additional usage requirements, on an individual basis. Should these rights be employed by SkeletonToast or the Silver Star team, affected parties will be notified.
