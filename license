@@ -1,0 +1,27 @@
+This License dictates how all Silver Star projects and their code may and may not be used. Subject to change, without notice, at the sole discretion of the Silver Star team.
+Last updated 8/25/2026
+
+Copyright © 2026 SkeletonToast
+
+This license shall be included in all copies or substantial portions of this project.
+
+Permitted Uses:
+- Any part of the Silver Star project may be used, unconditionally, in personal, single-player settings. This includes unlimited modification to the codebase.
+  - This DOES NOT allow unconditional redistribution of modified Silver Star projects, in any capacity.
+- Any part of the Silver Star project can be modified and used, UNCONDITIONALLY, as long as the modified code is NOT distributed
+- Any part of the Silver Star project may be modified and redistributed as part of a separate project, PROVIDED the code is not presented as original work of the new project's author.
+
+Prohibited Uses:
+- Code from the Silver Star project MAY NOT be used as part of any directly monetized project.
+  - Any project including Silver Star code must be offered, with no charge, to the general public, and all users must be afforded the same permissions as outlined above.
+
+Usage Requirements:
+- It is required, if Silver Star code is incorporated as part of a larger codebase, that a disclaimer is provided noting the use of Silver Star code.
+  - This disclaimer is recommended to be included in the project's base directory, and included with all public distributions of the project.
+  - A template is offered below for said disclaimer. This disclaimer must include a link to an updated project page of whatever Silver Star code was used.
+  - "This project includes code contributed from the Silver Star project, which can be found here: <link>."
+
+Exemptions:
+- SkeletonToast and the Silver Star team reserve the right to prohibit any individual, group, server, or any other entity from using Silver Star code in a public setting. This is at the SOLE DISCRETION of SkeletonToast and the Silver Star team.
+  - The right to use Silver Star projects in personal or private settings is granted, provided all conditions of this License are followed, to all individuals.
+- SkeletonToast and the Silver Star team reserve the right to override any parts of this License, or introduce additional usage requirements, on an individual basis. Should these rights be employed by SkeletonToast or the Silver Star team, affected parties will be notified.
